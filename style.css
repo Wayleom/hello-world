@@ -1,0 +1,17 @@
+.nav-Link{
+    opacity:0.7;
+}
+
+.nav-link:hover {
+    opacity: 1;
+    background-color: #eee !important;
+}
+
+header {
+    /*sizing of the element*/
+    height: 600px;
+    width: 100%;
+    /*set and adjudt background image*/
+    background-image: url("snowleop.jpg");
+    background-size: cover;
+} 
