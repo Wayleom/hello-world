@@ -22,3 +22,19 @@ header {
 header p {
   font-style: italic;
 }
+.services i {
+    height: 80px;
+    width: 80px;
+    color: purple;
+    background-color: yellow;
+    font-size: 50px;
+    border-radius: 100%;
+    padding: 15px 2px;
+    text-align: center;
+}
+
+.team h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
