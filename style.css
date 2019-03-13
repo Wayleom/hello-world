@@ -14,4 +14,11 @@ header {
     /*set and adjudt background image*/
     background-image: url("snowleop.jpg");
     background-size: cover;
-} 
+
+/*center the text*/
+    text-align: center;
+    font-family: 'Crete Round', serif;
+}
+header p {
+  font-style: italic;
+}
